@@ -15,7 +15,7 @@ class TextApp:
     def draw(self):
         if pyxel.frame_count % 30 == 0:
             y = 3
-            pyxel.cls(0)
+            pyxel.cls(5)
             self.count += 1
             new_list = []
             for idx in range(16):
