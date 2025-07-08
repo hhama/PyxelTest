@@ -40,6 +40,5 @@ class ImageApp:
         # pyxel.text(150, 100, f"{y}", 7)
 
 
-ImageApp()
-# TextApp()
-# TextApp()
+# ImageApp()
+TextApp()
